@@ -1,0 +1,24 @@
+package com;
+
+public class Test {
+	
+	
+	static  int a=10;
+	static  {
+		System.out.println("static block");
+	}
+	
+	static void m()
+	{
+		int a = Integer.MAX_VALUE
+		System.out.println("sttaic method");
+	}	
+	public static void main(String[] args) {
+		System.out.println("helloworld");
+		
+		
+	}
+	
+	
+
+}

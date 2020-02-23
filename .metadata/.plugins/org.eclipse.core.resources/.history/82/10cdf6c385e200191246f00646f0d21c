@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body bgcolor="lightgreen">
+<form  action = "registration.jsp">
+<pre>
+Name :  <input name="pname"  type="text"/>
+Age :  <input name="uage"  type="text"/>
+Address :  <input name="uaddr"  type="text"/>
+ <input name="submit"   value="Register" type="submit"/>
+  </pre>
+</form>
+</body>
+</html>
